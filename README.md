@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm jemma-dev! 👋
 
-<!--
-**jemma-dev/Jemma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on learning GitHub basics.
+- 🌱 I’m currently learning python 
+- ⚡ Fun fact: I just joined GitHub today!
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML / CSS
+- python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 How to reach me
+https://x.com/jamma_emmanuel
+https://www.linkedin.com/in/jjingo-emmanuel-2a83a3396?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
