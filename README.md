@@ -1,9 +1,9 @@
 # Hi, I'm jemma-dev! 👋
 
-## 🚀 About Me
-- 🔭 I’m currently working on learning GitHub basics.
-- 🌱 I’m currently learning python 
-- ⚡ Fun fact: I just joined GitHub today!
+##  About Me
+-  I’m currently working on learning GitHub basics.
+-  I’m currently learning python 
+-  Fun fact: I just joined GitHub today!
 
 ## 🛠 Tech Stack
 - HTML / CSS
